@@ -1,0 +1,33 @@
+/*Factorail of C Program*/
+/*This program calculates the factorial of a number entered by user. It uses recursion to calculate the factorial. The user is asked for an */
+#include <stdio.h>
+int main()
+{
+    int n, i;
+    printf("Enter a number: ");
+    scanf("%d", &n);
+    if (n < 0)
+        printf("Invalid Input");
+    else
+    {
+        printf("The factorial of %d is : ", n);
+        for (i = 1; i <= n; i++)
+        {
+            printf("%d * ", i);
+            // printf("\n");
+        }
+        printf("\b=%d", fact(n));
+    } // end of if-else loop
+    return 0;
+} // End of Main Function
+
+int fact(int x)
+{
+    int f = 1;
+    while (x > 0)
+    {
+        f = f * x;
+        x--;
+    }
+    return f;
+} // End of Fact Function
