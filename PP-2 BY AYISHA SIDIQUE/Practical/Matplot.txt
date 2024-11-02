@@ -1,0 +1,13 @@
+1. Draw a line with label in the x axis, y axis and a title.
+2. Draw a line using given axis values with label in the x axis , y axis and a title.
+3. Plot two or more lines on same plot with suitable legends of each line.
+4. Plot two or more lines with legends, different widths and colors.
+5. Plot two or more lines with different styles
+6. Plot two or more lines and set the line markers.
+7. Draw bar chart for any data and give proper label and title.
+8. Draw the bar chart for different programming languages with its popularity. Draw the grid lines in red color, with any style.
+9. Draw the horizontal bar chart for the same above data.
+10. Draw the bar chart with different colors for each bar.
+11. Draw a scatter plot taking a random distribution in X and Y and plotted against each other.
+12. Draw a scatter plot comparing two subject marks of PP2 and DSA1 (Use marks of 10 students)
+
