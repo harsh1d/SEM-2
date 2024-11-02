@@ -1,3 +1,0 @@
-ware pattern to find all the five letter word starts from c and ends with r
-ware pattern to find words of any length that starts from n 
-WARE to check email address is valid or not 
